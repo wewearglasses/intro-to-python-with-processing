@@ -2,6 +2,7 @@
 center_x=50
 center_y=50
 diameter=10
+
 ellipse(center_x,center_y,diameter,diameter)
 
 # Variables allow us to make changes on them
